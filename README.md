@@ -16,8 +16,21 @@
 
 
 <h1 align="center">INSTALLATION</h1>
+<p align="center">The game is not currently available for public release</p>
 <h1 align="center">SCREENSHOTS</h1>
+<img src="https://i.imgur.com/fD4ocpt.png" align="center">
+<img src="https://i.imgur.com/rK0qZXq.png" align="center">
+<img src="https://i.imgur.com/mTJNOxF.png" align="center">
+<img src="https://i.imgur.com/YGO8Y6r.png" align="center">
+<img src="https://i.imgur.com/B7SVNwd.png" align="center">
+<img src="https://i.imgur.com/6jHNp3D.png" align="center">
+<img src="https://i.imgur.com/DQpyctB.png" align="center">
+<img src="https://i.imgur.com/8LNNN6C.png" align="center">
+<img src="https://i.imgur.com/a0GEagr.png" align="center">
+
 <h1 align="center">OBSERVATIONS</h1>
+<p align="center">The code has no comments at the moment</p>
+
 
 
 
